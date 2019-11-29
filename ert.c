@@ -12,5 +12,6 @@ int main()
         if((a&c)!=0) b++;
         c=c>>1;
     } 
+    
     printf("一共有%d个一",b);
 }
